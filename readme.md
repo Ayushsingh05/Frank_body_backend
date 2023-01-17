@@ -47,7 +47,7 @@ That simple, that good.</p>
  
  # 🔹 Product Page
  <p></p>
- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPmTf1_JTxaRwLHcspiXGye3CPtgrCfN-jpERR31zth4ajzFI1IaJdqYirtGN_5ubGaAOJBDYz7T31y61zGRqd0D4O5tA=w1920-h972"/>
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPAnRwMjiyWiUuREYfid3OAcMMPKptH5QVkOdKYMGqTh1JXHKU6QhyPpBEu70VJjxpxZ2LWj2yBqYxllm0-5tn882Tqlw=w1920-h972"/>
  
  # 🔹 Product Description
  <p></p>
