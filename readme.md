@@ -47,11 +47,11 @@ That simple, that good.</p>
  
  # 🔹 Product Page
  <p></p>
- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPAnRwMjiyWiUuREYfid3OAcMMPKptH5QVkOdKYMGqTh1JXHKU6QhyPpBEu70VJjxpxZ2LWj2yBqYxllm0-5tn882Tqlw=w1920-h972"/>
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gN8iCQJBeVyVfk7y2oAd8FSOZb8WFxNBU2p29yMIChhHyiHl9mzAMHT0fKtkOT3gfaXlAlh5zUJfRJRXEtDis_UHWWdlw=w1920-h972"/>
  
  # 🔹 Product Description
  <p></p>
- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gOOmZkHYoWbWcI_pcskkrfpe_uPvyuKmVXD-xbH0xDF6BbaSVJqgv-cZACpNwc40CjWucrIi-HZG8m6D4Fr7jFFPMTgRw=w1920-h972"/>
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPAnRwMjiyWiUuREYfid3OAcMMPKptH5QVkOdKYMGqTh1JXHKU6QhyPpBEu70VJjxpxZ2LWj2yBqYxllm0-5tn882Tqlw=w1920-h972"/>
  
   # 🔹 Cart Page
  <p></p>
