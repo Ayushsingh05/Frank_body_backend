@@ -59,7 +59,7 @@ That simple, that good.</p>
  
   # 🔹 Payment Page
  <p></p>
- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMsj-sNvn5dCTCpxESNGhXlvPRHkKo2RNS2wmmJKu7HlQsFBCrIqwUrfPIZstymlTCBfXuPg4s89Wc2U4JOeYS0AD46-A=w1920-h972"/>
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gM544QoRYCxEnNQvBbA48QqvV--27CJJEH2djAGu5vZXEXD-9ibR7S-hs0IwpRFnt4dGxrixPRnNhUvqtNgU0C2bD8u2g=w1920-h972"/>
  
  # 🔹 Shop Page
  <p></p>
@@ -67,11 +67,11 @@ That simple, that good.</p>
  
  # 🔹 About Page
  <p></p>
- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gOPanyfXJQAUnFNHLjvoXz8tf4hCLkf4suMEceS7sr1Wuz1CWGOQAfGT0QbZgRBqvAYl-ynKCB6yoY91sqgIA_Dd5DrtQ=w1920-h972"/>
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gNGM9IeHxFjVMo3vgT1l1twFsTQ-LbmFaBR6XqwqLFLgqg_duPuuIQLtWuU5Leqz2fxn4-JM7ZxJpEZVoG-pjQFJxJgwQ=w1920-h972"/>
  
  # 🔹 Contact Page
  <p></p>
- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPmAbtTU5462iSA4yx1C_OG6GxFzSNiL2D5oDiwr811XyqZY4_npxgZ3bHMoNb37sRl-lmjdj63cA_5ydrv9s0dZZ7-Lw=w1920-h972"/>
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMW5sQk8bgoKK_bw7_Aqt_Jgr8XWCGBey_aVFJnxC4pZ7Nb6utglG9JhNSN8I5dW7luMX9_y_d4Lr6LM4ltrX2imjIEqw=w1920-h972"/>
  
     
  # <img src="https://cdn-icons-png.flaticon.com/512/1934/1934019.png" width="25px"/> Challenges :
