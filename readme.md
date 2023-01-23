@@ -55,7 +55,7 @@ That simple, that good.</p>
  
   # 🔹 Cart Page
  <p></p>
- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMBBzFOxgh-Ww99Xk-zIFKHIOIbKOBer77-XMwbeBd7GtgOIb2XnVDAHmJ3phOONxe6gwg18nbBz5HUcPI7i_eLPqAhow=w1920-h972"/>
+ <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gOH0fm6qzYJ2SeeqDPdbyknS9LClY5zKIVWIrcIXTj8Z_467OiNodyR4yw9jzoKkXQijl8mt_s9fB7te3fLrzK_QqHbzQ=w1920-h972"/>
  
   # 🔹 Payment Page
  <p></p>
